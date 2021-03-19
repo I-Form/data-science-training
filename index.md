@@ -7,9 +7,9 @@ If you run into problems or find broken links please use the [issues](https://gi
 | Course                                                     | Materials | Slides | Videos |
 |------------------------------------------------------------|:-----------:|:--------:|:--------:|
 | Intro to statistical and machine learning - Andrew Parnell | [materials](https://andrewcparnell.github.io/intro_to_ml/) | [slides](https://github.com/andrewcparnell/intro_to_ml/raw/master/intro_slides.pdf) | [videos](https://andrewcparnell.github.io/intro_to_ml/) |
-| Factorial designs and beyond - Mimi Zhang                  |           |        |        |
-| Adaptive and Bayesian design - Triona Ryan                 |           |        |        |
-| Time Series Analysis - Padraig Cunningham                  |           |        |        |
-| Image and Video Analysis - Annalina Caputo and Alessandra  |           |        |        |
-| CAx Analysis - Nikos Papakostas and Abraham George         |           |        |        |
+| Factorial designs and beyond - Mimi Zhang                  | [notes]() | [slides]() |        |
+| Adaptive and Bayesian design - Triona Ryan                 | [notes]() | [slides]() | [video]() |
+| Time Series Analysis - Padraig Cunningham                  | [notes]() | [slides]() | [video]() |
+| Image and Video Analysis - Annalina Caputo and Alessandra Mileos | [notes]() | [slides]() | [video]() |
+| CAx Analysis - Nikos Papakostas and Abraham George         | [notes]() | [slides]() |        |
 | Code surrogates and emulation with Gaussian Processes      | [materials](https://andrewcparnell.github.io/intro_to_emulators/) | [slides](https://github.com/andrewcparnell/intro_emulators/tree/master/slides) | [videos](https://andrewcparnell.github.io/intro_emulators/) |
