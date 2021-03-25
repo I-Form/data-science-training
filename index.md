@@ -2,7 +2,7 @@
 
 Welcome to the I-Form Data Science training page. Below you will find all the slides and videos from a set of courses run in early 2021 covering a range of topics relevant to applying data science to advanced manufacturing.
 
-If you run into problems or find broken links please use the [issues](https://github.com/andrewcparnell/data-science-training/issues) page. 
+If you run into problems or find broken links please use the [issues](https://github.com/I-Form/data-science-training/issues) page. 
 
 | Course                                                     | Materials | Slides | Videos |
 |------------------------------------------------------------|:-----------:|:--------:|:--------:|
